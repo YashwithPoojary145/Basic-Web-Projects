@@ -1,6 +1,6 @@
 This is only a frontend Web Development project , which i created for my college CC Subject .
 In this project i have created a 'Tech News Aggregator' 
-where we can find all the Tech rlated news for the convinience
+where we can find all the Tech related news for the convinience
 of the people who are interested in Tech related news .
   I used basic HTML tags for designing the overview of the page 
 and then i used CSS for making it more appropriate and to make the page stand out 
